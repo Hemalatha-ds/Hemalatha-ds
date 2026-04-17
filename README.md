@@ -1,8 +1,8 @@
 👋 Hi, I'm **Hemalatha K**
 
-### *Junior Data Scientist | Machine Learning Enthusiast | Data Analyst*
+### *Data Analyst | Machine Learning Enthusiast*
 
-I am a passionate **Junior Data Scientist** with a strong academic foundation in **Mathematics (B.Sc & M.Sc)** and hands‑on experience in **Machine Learning, Data Analysis, and Data Visualization**. My background as a teacher has strengthened my communication, analytical thinking, and problem‑solving abilities—skills I now apply to data‑driven projects.
+I am a passionate **Data Analyst** with a strong academic foundation in **Mathematics (B.Sc & M.Sc)** and hands‑on experience in **Machine Learning, Data Analysis, and Data Visualization**. My background as a teacher has strengthened my communication, analytical thinking, and problem‑solving abilities—skills I now apply to data‑driven projects.
 
 ---
 
@@ -74,4 +74,4 @@ Applied mathematical optimization using trapezoidal fuzzy number ranking to solv
 
 ## ⭐ **Career Goal**
 
-To grow as a **Junior Data Scientist** by building impactful, real‑world data solutions through ML models, analytics, and continuous learning.
+To grow as a **Data Analyst** by building impactful, real‑world data solutions through ML models, analytics, and continuous learning.
