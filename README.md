@@ -1,77 +1,74 @@
-👋 Hi, I'm **Hemalatha K**
+# 👋 Hi, I'm Hemalatha K
 
-### *Data Analyst | Machine Learning Enthusiast*
+### Data Analyst | Python, SQL, Power BI | Machine Learning
 
-I am a passionate **Data Analyst** with a strong academic foundation in **Mathematics (B.Sc & M.Sc)** and hands‑on experience in **Machine Learning, Data Analysis, and Data Visualization**. My background as a teacher has strengthened my communication, analytical thinking, and problem‑solving abilities—skills I now apply to data‑driven projects.
+I am a Data Analyst with a strong academic foundation in **Mathematics (B.Sc & M.Sc)** and hands-on experience in **data analysis, visualization, and machine learning**. I focus on transforming raw data into actionable insights to support data-driven decision-making.
 
----
-
-## 🚀 **About Me**
-
-* 🎓 **M.Sc. Mathematics**, The New College (University of Madras) – 85%
-* 📊 **Data Science course**, Uptor
-* 🤖 Skilled in **machine learning**, data preprocessing, EDA, modeling & evaluation
-* 🧑‍🏫 Former teacher with strong analytical and communication skills
+My background as a teacher has strengthened my **analytical thinking, communication, and problem-solving skills**, which I apply effectively in real-world data projects.
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🚀 About Me
 
-### **Programming & Libraries**
-
-`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Statsmodels`
-
-### **Machine Learning**
-
-Supervised & Unsupervised Algorithms • Model Tuning • Pipelines • Evaluation Metrics
-
-### **Tools & Platforms**
-
-`PowerBI` • `MySQL` • `Azure` • `Dataiku` • `Jupyter Notebook` • `PyCharm`
-
-### **Other Skills**
-
-`Flask` • `GitHub` • `Data Cleaning` • `Feature Engineering` • `Reporting`
+- 🎓 M.Sc. Mathematics, The New College (University of Madras) – 85%  
+- 📊 Diploma in Data Science & Machine Learning  
+- 📈 Skilled in data analysis, EDA, modeling, and visualization  
+- 🧑‍🏫 Former teacher with strong analytical and communication skills  
 
 ---
 
-## 📂 **Projects**
+## 🛠️ Technical Skills
 
-### 🔹 **Housing Price Prediction**
+### Programming & Libraries
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Statsmodels  
 
-Built a complete ML pipeline including EDA, feature engineering, model building, and hyperparameter tuning.
+### Data Analysis & Machine Learning
+EDA • Data Cleaning • Feature Engineering • Model Building • Evaluation  
 
-### 🔹 **Diamonds Dataset Analysis**
+### Tools & Platforms
+Power BI • SQL (MySQL) • Jupyter Notebook • GitHub • PyCharm  
 
-Performed in‑depth EDA, data cleaning, transformation, and visualization to identify factors influencing diamond prices.
-
-### 🔹 **Fuzzy Transportation Problem (Academic Research)**
-
-Applied mathematical optimization using trapezoidal fuzzy number ranking to solve transportation cost minimization.
-
----
-
-## 🧰 **Currently Working On**
-
-* Building new ML and analytics projects
-* Enhancing GitHub documentation
-* Creating PowerBI dashboards
-* Strengthening SQL and data engineering concepts
+### Additional Skills
+Flask • Reporting • Data Visualization  
 
 ---
 
-## 📊 **GitHub Stats**
+## 📂 Key Projects
+
+### 🔹 Loan Portfolio Risk Analysis
+- Identified ~13.5% default rate and high-risk borrower segments  
+- Built SQL-based analysis and interactive Power BI dashboard  
 
 ---
 
-## 📫 **Connect With Me**
-
-**LinkedIn:** https://www.linkedin.com/in/hemalatha-k-244283378/
-**GitHub:** https://github.com/Hemalatha-ds
-**Email:** hemakrish71999@gmail.com
+### 🔹 Student Dropout Prediction
+- Achieved ~77% accuracy using Random Forest classification  
+- Deployed model using Flask API for real-time predictions  
 
 ---
 
-## ⭐ **Career Goal**
+### 🔹 Time Series Forecasting (Electricity Consumption)
+- Built ARIMA/SARIMAX model on ~2M records  
+- Captured trend and seasonality for short-term forecasting  
 
-To grow as a **Data Analyst** by building impactful, real‑world data solutions through ML models, analytics, and continuous learning.
+---
+
+## 🧰 Currently Working On
+
+- Building advanced analytics and dashboard projects  
+- Improving SQL and data engineering skills  
+- Enhancing GitHub documentation  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/-hema-krish/  
+- GitHub: https://github.com/Hemalatha-ds  
+- Email: hemakrish71999@gmail.com  
+
+---
+
+## ⭐ Career Goal
+
+To grow as a Data Analyst by building impactful, real-world data solutions using analytics, visualization, and machine learning.
